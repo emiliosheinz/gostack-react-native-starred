@@ -125,7 +125,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.modulo06"
+        applicationId "com.githubstarred"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

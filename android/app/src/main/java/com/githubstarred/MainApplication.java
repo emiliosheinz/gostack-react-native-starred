@@ -1,4 +1,4 @@
-package com.modulo06;
+package com.githubstarred;
 
 import android.app.Application;
 
