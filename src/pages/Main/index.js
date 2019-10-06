@@ -57,7 +57,7 @@ export default class Main extends Component {
 
   handleSubmit = async () => {
     const { users, newUser } = this.state
-    console.tron.log(users)
+
     this.setState({ loading: true })
 
     const response = await api.get(`/users/${newUser}`)
